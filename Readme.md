@@ -10,3 +10,4 @@
 
 5.ipl10.nas生成的ipl10.bin需要用dd写入u盘首个扇区(cmd开启后，得关闭所有文件夹才能写入，不然会出现被占用错误)，其他只要把haribote.sys放入u盘启动即可。
 
+![image](https://github.com/PofeiShit/os/tree/master/day30/day30.jpg)
